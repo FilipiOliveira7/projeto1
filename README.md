@@ -1,2 +1,2 @@
 # projeto1
-Criação de site 
+Criação de site simples para Pizzaria
