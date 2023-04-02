@@ -1,0 +1,15 @@
+@media screen and (min-width: 992px) and (max-width: 1920px) {
+    #grid-conteudo{
+        background-color: #de1111;
+        border-radius: 20px;
+        width: 95%;
+        margin: auto;
+        color: #fff;
+        font-weight: bold; 
+    }    
+
+    .texto-bebida{
+        
+        
+    }
+}
